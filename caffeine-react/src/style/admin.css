@@ -1,0 +1,36 @@
+/*  color: 'red', marginTop: '10px', textAlign: 'end', cursor: 'pointer' */
+.dashboard-container {
+    width: 70%;
+    margin: 10px auto;
+}
+
+.admin-container {
+    height: 20vh;
+    overflow: scroll;
+}
+
+.content-container {
+    border: 1px solid gray;
+    margin: 10px;
+    padding: 10px 10%;
+ }
+
+.content-container img {
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-right: 10px;
+}
+
+.container-title {
+    margin-top: 12px;
+    margin-right: 10px;
+    float: left;
+}
+
+.admin-delete-btn {
+    color: red;
+    margin-top: 10px;
+    text-align: end;
+    cursor: pointer
+}

@@ -1,0 +1,44 @@
+
+.OneCardProduct {
+    display: flex;
+}
+
+.OneCardProduct img{
+    width: 200px ;
+    height:200px;
+}
+
+.OneCardProduct div{
+    width: 100px;
+    margin: 150px;
+    text-align: center;
+
+}
+
+
+
+
+.OneCardProduct  button{
+    width: 80px;
+   height: 30px;
+   text-align: center;
+    
+}
+
+
+.OneCardProduct p.ex1 {
+    width: 350px;
+  }
+
+
+.OneCardProduct .price {
+   color: black;
+    font-weight: bold;
+  }
+
+  .Cart .total{
+      display: flex;
+      justify-content: flex-end;
+      color: black;
+      font-weight: bold;
+  }

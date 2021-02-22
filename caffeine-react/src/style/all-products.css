@@ -1,0 +1,31 @@
+.Products .product{
+    text-align: center;
+    height: 450px;
+    overflow: hidden;
+}
+
+.Products .one-product {
+    text-decoration: none;
+    color:rgb(92, 92, 92);
+
+    
+
+}
+ .Products .product:hover{
+     border: 0.2px solid red
+  }
+
+ .Products .product .btn-more-info-space{
+     display: flex;
+     justify-content: center;
+ 
+ }
+ .Products .product .product-description{
+     max-height: 50px;
+ }
+ .Products .product .body-one-product{
+     display:flex ;
+     flex-direction: column;
+     align-self: center;
+ }
+ 
